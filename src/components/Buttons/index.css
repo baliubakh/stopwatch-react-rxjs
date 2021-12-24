@@ -1,0 +1,32 @@
+div button {
+  margin: 30px 10px;
+  padding: 5px 20px;
+  font-family: inherit;
+  outline: none;
+  border: 3px solid black;
+  transition: all 0.3s ease;
+}
+
+.start-btn {
+  background: green;
+}
+.start-btn:hover {
+  color: white;
+  background-color: rgb(1, 80, 1);
+}
+.stop-btn {
+  background-color: red;
+}
+
+.stop-btn:hover {
+  color: white;
+  background-color: #7e0404;
+}
+.wait-btn {
+  background-color: yellow;
+}
+
+.wait-btn:hover {
+  color: white;
+  background-color: rgb(138, 138, 0);
+}
