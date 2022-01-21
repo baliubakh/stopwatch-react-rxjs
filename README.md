@@ -1,4 +1,3 @@
-# Deployed Site https://61ea9fd38a932bd1a6d432e6--wonderful-gates-e25c3c.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
